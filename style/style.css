@@ -1,16 +1,39 @@
 
 .body{
-    margin: 0; 
-    padding: 0; 
+    margin: 0;
+    padding: 0;  
 
 }
 
-.banner
-{
+/* movie csss */
+.banner {
     width: 100%;
     height: 100vh; 
     overflow: hidden;
     display: flex; 
     justify-content: center; 
-    align-items: center; 
+    align-items: center;
+    margin-bottom: 30px; 
 }
+
+/* header section */
+
+.header .h1 {
+    text-align: center;
+}
+
+.header .p {
+    text-align: center;
+    padding-top: 50px;
+}
+
+]
+
+
+
+
+
+
+
+
+
